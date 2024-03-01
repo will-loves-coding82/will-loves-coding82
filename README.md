@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @will-loves-coding82.. 
-- 🌱 I'm a fourth year student at UCSD. I love making frontend-focused applications. I'm committed to organizations like ACM AI at UCSD where I currently work as a frontend developer to make beautiful  designs for their website (https://ai.acmucsd.com/) and the San Diego Supercomputer Center where I work as a backend dev to assist in software solutions for clients.
+- 🌱 I'm a fourth year student at UCSD. I love making frontend-focused applications. I'm committed to organizations like ACM AI at UCSD where I currently work as a frontend developer to make beautiful designs for their website (https://ai.acmucsd.com/) and the San Diego Supercomputer Center as a backend dev, assisting in making software solutions for clients.
 - 💞️ I’m looking to collaborate on any small projects to get my hands dirty. 
 - 📫 How to reach me: instagram: code_with_will
                        email:  williammmm.kim@gmail.com
