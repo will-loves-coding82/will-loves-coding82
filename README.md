@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @will-loves-coding82.. 
-- 🌱 I’m currently learning javascript, html, and css. Currently exploring frameworks such as React and Node.js to build apps and websites.
-- 💞️ I’m looking to collaborate on any small projects to get my hands dirty. I am no pro but I want to educate myself as much as I can
+- 🌱 I'm a fourth year student at UCSD. I love making frontend-focused applications and have committed my skills for organizations like ACM AI at UCSD and the San Diego Supercomputer Center.
+- 💞️ I’m looking to collaborate on any small projects to get my hands dirty. 
 - 📫 How to reach me: instagram: code_with_will
                        email:  williammmm.kim@gmail.com
 
